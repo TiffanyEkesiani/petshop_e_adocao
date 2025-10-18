@@ -1,100 +1,103 @@
-# Petshop & Adoção — Projeto Acadêmico
+# 🐾 Projeto Petshop & Adoção  
 
-**Disciplina:** Desenvolvimento Web Front-End II — JavaScript (SENAC)  
-**Tipo:** Trabalho acadêmico colaborativo  
-**Integrantes:** Tiffany Ekesiani, Gustavo Bueno, Ana Bela da Silva Gonçalves
-
----
-
-## Descrição do projeto
-Site responsivo simples desenvolvido em HTML, CSS e JavaScript puro que simula as funcionalidades de um *petshop* e portal de adoção de animais. O objetivo principal é aplicar conceitos de front-end estudados na disciplina (estrutura semântica, estilização, manipulação do DOM e organização de arquivos), além de praticar trabalho em equipe.
-
----
-
-## Objetivos
-- Consolidar conhecimentos em HTML5, CSS3 e JavaScript (DOM, eventos e manipulação de elementos).  
-- Criar uma interface clara para exibição de pets disponíveis para adoção e itens/serviços de petshop.  
-- Organizar um projeto front-end simples com boa estrutura de pastas e separação de responsabilidades (estilos, scripts, imagens).  
-- Documentar o projeto de forma acadêmica para avaliação.
+**Curso:** Desenvolvimento Web Front-End II — JavaScript  
+**Instituição:** SENAC  
+**Tipo de trabalho:** Projeto de Conclusão de Curso (PCC)  
+**Participantes do grupo:**  
+- Tiffany Ekesiani  
+- Gustavo Bueno  
+- Ana Bela da Silva Gonçalves  
 
 ---
 
-## Tecnologias utilizadas
-- HTML5  
-- CSS3  
-- JavaScript (ES6+; sem frameworks)  
-- Recursos estáticos (imagens)
+## 🎯 Apresentação do Projeto
+
+O presente trabalho foi desenvolvido como parte do **Projeto de Conclusão do curso de Desenvolvimento Web Front-End II — JavaScript**, ministrado pelo **SENAC**.  
+
+A proposta consistiu em criar um **site temático de Petshop e Adoção**, aplicando na prática os conhecimentos adquiridos ao longo do curso sobre **HTML, CSS e JavaScript**, com foco em estrutura semântica, estilização responsiva e manipulação do DOM.  
+
+O desenvolvimento foi realizado de forma **colaborativa**:  
+- A **página inicial (Home)** foi construída **coletivamente por toda a turma**.  
+- A **página de Adoção** foi desenvolvida **pelo grupo formado por Tiffany Ekesiani, Gustavo Bueno e Ana Bela da Silva Gonçalves**.
 
 ---
 
-## Estrutura de diretórios (resumo)
-petshop_e_adocao-master/
-├─ index.html
-├─ style.css
-├─ script.js
-├─ enhance.js
-├─ aula12/
-│ ├─ index.html
-│ ├─ style.css
-│ ├─ script.js
-│ └─ img/ (imagens utilizadas)
+## 🧩 Objetivos do Projeto
+
+- Consolidar os conceitos fundamentais de **HTML5, CSS3 e JavaScript**.  
+- Desenvolver um site funcional, de navegação intuitiva e estética agradável.  
+- Estimular o **trabalho em equipe**, a **divisão de tarefas** e a **colaboração entre alunos**.  
+- Aplicar boas práticas de organização de código e estruturação de pastas.  
+- Compreender o processo completo de criação de uma aplicação front-end simples.  
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+| Tecnologia  | Finalidade |
+|--------------|-------------|
+| **HTML5** | Estruturação e marcação do conteúdo |
+| **CSS3** | Estilização, layout e responsividade |
+| **JavaScript (ES6+)** | Interatividade e manipulação de elementos |
+| **Recursos estáticos (imagens)** | Composição visual e identidade do site |
+
+---
+## 📁 Estrutura do Projeto
+
+petshop_e_adocao-master/  
+├─ index.html (Página inicial do site — desenvolvida coletivamente)  
+├─ style.css (Folha de estilos principal)  
+├─ script.js (Scripts de interação da Home)  
+├─ enhance.js (Efeitos e funcionalidades adicionais)  
+├─ aula12/  
+│  ├─ index.html (Página de adoção — desenvolvida pelo grupo)  
+│  ├─ style.css (Estilos específicos da página de adoção)  
+│  ├─ script.js (Lógica e interações da página de adoção)  
+│  └─ img/ (Banco de imagens dos pets)  
 └─ README.md
 
-yaml
-Copiar código
-> Observação: a pasta `aula12/` contém uma versão/variante do trabalho (ex.: exercícios da aula com imagens).
+---
+
+## 🧠 Conceitos e Habilidades Aplicadas
+
+- Estrutura semântica de páginas HTML.  
+- Criação de layouts e componentes visuais em CSS.  
+- Manipulação do DOM com JavaScript (eventos, exibição dinâmica e interatividade).  
+- Organização modular dos arquivos e reutilização de estilos.  
+- Colaboração entre equipes em um mesmo projeto.  
 
 ---
 
-## Como executar / visualizar (instruções para avaliação)
-1. Descompacte o arquivo `zip` (se aplicável).  
-2. Abra `index.html` no navegador (duplo clique ou `File → Open` no navegador).  
-3. Caso queira visualizar a versão da pasta `aula12`, abra `aula12/index.html`.
+## 🚀 Como Visualizar o Projeto
 
-> Não há dependências externas ou processo de build — basta o navegador.
-
----
-
-## Pontos técnicos abordados
-- Marcação semântica e organização de conteúdo.  
-- Layout com CSS (estrutura de cards, responsividade básica).  
-- Manipulação do DOM via `script.js` (carregar/exibir itens, interatividade).  
-- Arquivos adicionais (`enhance.js`) para melhorias/efeitos progressivos.  
-- Uso de imagens locais para representar pets.
+1. Baixe ou extraia o arquivo `petshop_e_adocao-master.zip`.  
+2. Abra o arquivo `index.html` em um navegador de sua preferência.  
+3. Para acessar a página de adoção, abra `aula12/index.html`.  
+4. Não há dependências externas — o projeto é executado localmente.  
 
 ---
 
-## Trabalho em equipe
-Este projeto foi desenvolvido colaborativamente. As tarefas foram divididas entre:  
-- Estrutura e marcação (HTML)  
-- Estilo visual (CSS)  
-- Lógicas e interações (JavaScript)  
-- Organização de imagens e testes locais
+## 🌱 Resultados e Conclusão
+
+O projeto **Petshop & Adoção** simboliza o encerramento de um ciclo de aprendizado, representando a aplicação prática das competências adquiridas ao longo do curso.  
+
+A experiência proporcionou não apenas o aprimoramento técnico, mas também o desenvolvimento de **habilidades interpessoais**, como **cooperação**, **organização**, **criatividade** e **autonomia** na resolução de problemas.  
 
 ---
 
-## Possíveis melhorias (sugestões para evolução)
-- Persistência local (LocalStorage) para salvar favoritos ou status de adoção.  
-- Formulário funcional de contato/adoção com validação.  
-- Separação em componentes (frameworks) para projetos maiores.  
-- Acessibilidade (aria-labels, navegação por teclado) e testes em dispositivos móveis.
+## 🧾 Créditos
+
+**Grupo de desenvolvimento da página de adoção:**  
+Tiffany Ekesiani, Gustavo Bueno e Ana Bela da Silva Gonçalves  
+
+**Desenvolvimento da página inicial:**  
+Trabalho coletivo da turma de **Desenvolvimento Web Front-End II — JavaScript (SENAC)**  
 
 ---
 
-## Créditos e referências
-- Desenvolvido como atividade da disciplina **Desenvolvimento Web Front-End II — JavaScript** (SENAC).  
-- Integrantes: Tiffany Ekesiani, Gustavo Bueno, Ana Bela da Silva Gonçalves.
+## 📚 Licença e Uso
+
+Projeto desenvolvido exclusivamente para fins **acadêmicos** no contexto do curso do SENAC.  
+Todos os direitos reservados aos autores e à instituição de ensino.
 
 ---
-
-## Licença
-Sugere-se usar uma licença permissiva para fins acadêmicos (ex.: MIT).  
-(Se for necessário, podemos incluir o texto da licença no repositório.)
-
----
-
-### Observações finais
-Caso queiram, eu gero também:
-- Um `index.html` comentado com anotações (para facilitar correção).  
-- Um `CHANGELOG.md` ou versão com instruções de entrega para a disciplina.  
-
